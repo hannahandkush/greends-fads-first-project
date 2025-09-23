@@ -1,0 +1,16 @@
+5.1. Can you explain the copy (cp ../temp-* .) command used above?
+This command copied a file from a parent directory into the current directory.
+I had to modify the command because the file was within a separate directory.
+I had to use .. to go up to /Users/hannahnathanson and then into the directory my-first-project where the text file was located before I could copy it into the current directory. 
+
+5.2. Can you explain why, in this case, we did not have to do git init?
+
+git innit is a command for creating a new project whereas git clone is to copy an existing repository. 
+This time I was using the cp command to copy a file instead of creating a new file.
+
+5.3. Can you commit the files copied? What do you need to do? Execute the commands that are needed.
+
+The command to commit files is $ git commit 
+Before I can commit the file, it needs to be in the index/staging area. 
+I will start with $ git add temp-* to move the copied files from the working directory to the staging area.
+Then I will be able to use $ commit temp-*
