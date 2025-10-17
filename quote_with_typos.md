@@ -8,7 +8,7 @@ carnival masks, and they probably do so out of something that we might
 call metaphysical angst, perhaps because they cannot bear the idea of
 chaos being the one ruler of the universe, which is why, using their
 limited powers and with no divine help, they attempt to impose some order
-on the world, and for a short while they manage it, butt only as long as
+on the world, and for a short while they manage it, but only as long as
 they are there to defend their collection, because when the day comes when
 it must be dispersed, and that day always comes, either with their death
 or when the collector grows weary, everything goes back to its beginnings,
